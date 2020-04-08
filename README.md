@@ -1,2 +1,2 @@
 # hello_world
-first time use github
+print("hello world")
